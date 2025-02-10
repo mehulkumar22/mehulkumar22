@@ -36,11 +36,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkumar22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-
 ![](https://github-readme-stats.vercel.app/api?username=mehulkumar22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br>
-
-![](https://github-contributor-stats.vercel.app/api?username=mehulkumar22&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehulkumar22&theme=dark&hide_border=false)
