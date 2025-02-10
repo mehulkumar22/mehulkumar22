@@ -7,13 +7,13 @@
 <br>
 📚 Always learning, Always growing. 🚀
 
-# 🌐 Socials
+ #🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white&labelColor=F6A8C1)](https://www.instagram.com/_mehulmehta_) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&style=for-the-badge&logoColor=white&labelColor=D0E2F2)](https://www.linkedin.com/in/mehulkumar22/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FB3C3C?logo=leetcode&style=for-the-badge&logoColor=white&labelColor=F9A8A6)](https://leetcode.com/u/mehulkumar22/)
 
-# 💻 Tech Stack
+#💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge&logoColor=white&labelColor=A1C6D8) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=for-the-badge&logoColor=white&labelColor=F1B04C) 
@@ -32,7 +32,7 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-007ACC?logo=vsc&style=for-the-badge&logoColor=white&labelColor=B8D9FF) 
 <br />
 
-# GitHub Stats
+#📝 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkumar22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
