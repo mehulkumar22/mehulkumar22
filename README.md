@@ -1,4 +1,13 @@
-# Hi 👋, I'm a Mehul Kumar
+<h3 align="center">
+  Welcome to Mehul Kumar's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/mehulkumar22/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Programming+is+%E2%9D%A4;I'm+currently+learning+React.js;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+
 💻 A Passionate Full Stack Developer from India.
 <br>
 👨‍🎓 B.Tech CSE Student at KIIT University.
